@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,gaming.amazon.com
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,twitch.amazon.com
+  - DOMAIN-SUFFIX,science-output.s3.amazonaws.com
