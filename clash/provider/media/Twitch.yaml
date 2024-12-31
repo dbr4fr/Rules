@@ -8,3 +8,11 @@ payload:
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchsvc.net
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,gaming.amazon.com
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,twitch.amazon.com
+  
+  
+  
