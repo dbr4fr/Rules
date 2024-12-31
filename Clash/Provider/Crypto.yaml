@@ -1,4 +1,16 @@
 payload:
+  - DOMAIN-SUFFIX,coinglass.com
+  - DOMAIN-SUFFIX,coinank.com
+  - DOMAIN-SUFFIX,coinfarm.online
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-KEYWORD,tradingview-widget.com
+  - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,bnbzh.ac
+  - DOMAIN-SUFFIX,saasexch.cc
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,saasexch.co
+  
   # > Forum
   - DOMAIN-SUFFIX,bitcointalk.org
 
