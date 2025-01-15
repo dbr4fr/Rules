@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-KEYWORD,tradingview-widget.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,fx168news.com
   - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-SUFFIX,bnbzh.ac
   - DOMAIN-SUFFIX,saasexch.cc
