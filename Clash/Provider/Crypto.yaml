@@ -12,6 +12,14 @@ payload:
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,saasexch.co
   
+  - DOMAIN-SUFFIX,hyperliquid.xyz
+  - DOMAIN-SUFFIX,arbitrum.io
+  - DOMAIN-SUFFIX,privy.io
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,walletconnect.com
+  - DOMAIN-SUFFIX,statuspage.io
+
+  
   # > Forum
   - DOMAIN-SUFFIX,bitcointalk.org
 
